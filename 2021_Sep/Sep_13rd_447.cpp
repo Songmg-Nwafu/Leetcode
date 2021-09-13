@@ -19,6 +19,9 @@ public:
             map.clear();
             for(auto& q : points){
                 int dis = (p[0] - q[0]) * (p[0] - q[0]) + (p[1] - q[1]) * (p[1] - q[1]);
+                /*
+                 * 在这个地方进行了优化，m*(m-1) = 2 * (0 + 1 + …… + m -1)
+                 */
                 count += 2 * map[dis]++;
             }
         }
