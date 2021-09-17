@@ -9,3 +9,6 @@ LeetCode每日刷题 C++
 
 ## 回溯
 [212.单词搜索 II](https://github.com/Songmg-Nwafu/Leetcode/blob/main/2021_Sep/Seq_15th_212.md)
+
+## 数组
+[36.有效的数独](https://github.com/Songmg-Nwafu/Leetcode/blob/main/2021_Sep/Seq_16th_36.md)

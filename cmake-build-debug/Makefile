@@ -197,6 +197,33 @@ LeetCode/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/2021_Sep/Sep_15th_212.cpp.s
 .PHONY : 2021_Sep/Sep_15th_212.cpp.s
 
+2021_Sep/Sep_16th_36.o: 2021_Sep/Sep_16th_36.cpp.o
+
+.PHONY : 2021_Sep/Sep_16th_36.o
+
+# target to build an object file
+2021_Sep/Sep_16th_36.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/2021_Sep/Sep_16th_36.cpp.o
+.PHONY : 2021_Sep/Sep_16th_36.cpp.o
+
+2021_Sep/Sep_16th_36.i: 2021_Sep/Sep_16th_36.cpp.i
+
+.PHONY : 2021_Sep/Sep_16th_36.i
+
+# target to preprocess a source file
+2021_Sep/Sep_16th_36.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/2021_Sep/Sep_16th_36.cpp.i
+.PHONY : 2021_Sep/Sep_16th_36.cpp.i
+
+2021_Sep/Sep_16th_36.s: 2021_Sep/Sep_16th_36.cpp.s
+
+.PHONY : 2021_Sep/Sep_16th_36.s
+
+# target to generate assembly for a file
+2021_Sep/Sep_16th_36.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/2021_Sep/Sep_16th_36.cpp.s
+.PHONY : 2021_Sep/Sep_16th_36.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -212,6 +239,9 @@ help:
 	@echo "... 2021_Sep/Sep_15th_212.o"
 	@echo "... 2021_Sep/Sep_15th_212.i"
 	@echo "... 2021_Sep/Sep_15th_212.s"
+	@echo "... 2021_Sep/Sep_16th_36.o"
+	@echo "... 2021_Sep/Sep_16th_36.i"
+	@echo "... 2021_Sep/Sep_16th_36.s"
 .PHONY : help
 
 

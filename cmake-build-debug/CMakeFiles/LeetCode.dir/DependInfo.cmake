@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/smg/Documents/GitHub/LeetCode/2021_Sep/Sep_14th_524.cpp" "/Users/smg/Documents/GitHub/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/2021_Sep/Sep_14th_524.cpp.o"
   "/Users/smg/Documents/GitHub/LeetCode/2021_Sep/Sep_15th_212.cpp" "/Users/smg/Documents/GitHub/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/2021_Sep/Sep_15th_212.cpp.o"
+  "/Users/smg/Documents/GitHub/LeetCode/2021_Sep/Sep_16th_36.cpp" "/Users/smg/Documents/GitHub/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/2021_Sep/Sep_16th_36.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
