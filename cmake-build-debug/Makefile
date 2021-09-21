@@ -251,6 +251,60 @@ LeetCode/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/2021_Sep/Sep_17th_292.cpp.s
 .PHONY : 2021_Sep/Sep_17th_292.cpp.s
 
+2021_Sep/Sep_21th_58.o: 2021_Sep/Sep_21th_58.cpp.o
+
+.PHONY : 2021_Sep/Sep_21th_58.o
+
+# target to build an object file
+2021_Sep/Sep_21th_58.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/2021_Sep/Sep_21th_58.cpp.o
+.PHONY : 2021_Sep/Sep_21th_58.cpp.o
+
+2021_Sep/Sep_21th_58.i: 2021_Sep/Sep_21th_58.cpp.i
+
+.PHONY : 2021_Sep/Sep_21th_58.i
+
+# target to preprocess a source file
+2021_Sep/Sep_21th_58.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/2021_Sep/Sep_21th_58.cpp.i
+.PHONY : 2021_Sep/Sep_21th_58.cpp.i
+
+2021_Sep/Sep_21th_58.s: 2021_Sep/Sep_21th_58.cpp.s
+
+.PHONY : 2021_Sep/Sep_21th_58.s
+
+# target to generate assembly for a file
+2021_Sep/Sep_21th_58.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/2021_Sep/Sep_21th_58.cpp.s
+.PHONY : 2021_Sep/Sep_21th_58.cpp.s
+
+2021_Sep/Sept_21th_58.o: 2021_Sep/Sept_21th_58.cpp.o
+
+.PHONY : 2021_Sep/Sept_21th_58.o
+
+# target to build an object file
+2021_Sep/Sept_21th_58.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/2021_Sep/Sept_21th_58.cpp.o
+.PHONY : 2021_Sep/Sept_21th_58.cpp.o
+
+2021_Sep/Sept_21th_58.i: 2021_Sep/Sept_21th_58.cpp.i
+
+.PHONY : 2021_Sep/Sept_21th_58.i
+
+# target to preprocess a source file
+2021_Sep/Sept_21th_58.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/2021_Sep/Sept_21th_58.cpp.i
+.PHONY : 2021_Sep/Sept_21th_58.cpp.i
+
+2021_Sep/Sept_21th_58.s: 2021_Sep/Sept_21th_58.cpp.s
+
+.PHONY : 2021_Sep/Sept_21th_58.s
+
+# target to generate assembly for a file
+2021_Sep/Sept_21th_58.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/2021_Sep/Sept_21th_58.cpp.s
+.PHONY : 2021_Sep/Sept_21th_58.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -272,6 +326,12 @@ help:
 	@echo "... 2021_Sep/Sep_17th_292.o"
 	@echo "... 2021_Sep/Sep_17th_292.i"
 	@echo "... 2021_Sep/Sep_17th_292.s"
+	@echo "... 2021_Sep/Sep_21th_58.o"
+	@echo "... 2021_Sep/Sep_21th_58.i"
+	@echo "... 2021_Sep/Sep_21th_58.s"
+	@echo "... 2021_Sep/Sept_21th_58.o"
+	@echo "... 2021_Sep/Sept_21th_58.i"
+	@echo "... 2021_Sep/Sept_21th_58.s"
 .PHONY : help
 
 
