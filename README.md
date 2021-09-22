@@ -13,6 +13,9 @@ LeetCode每日刷题 C++
 ## 数组
 [36.有效的数独](https://github.com/Songmg-Nwafu/Leetcode/blob/main/2021_Sep/Sept_16th_36.md)
 
+## 链表
+[725. 分隔链表](https://github.com/Songmg-Nwafu/Leetcode/blob/main/2021_Sep/Sept_22th_725.md)
+
 ## 博弈论
 [292.Nim游戏](https://github.com/Songmg-Nwafu/Leetcode/blob/main/2021_Sep/Sept_17th_292.md)
 

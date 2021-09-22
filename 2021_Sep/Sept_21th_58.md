@@ -34,3 +34,4 @@ public:
     }
 };
 ```
+[code](https://github.com/Songmg-Nwafu/Leetcode/blob/main/2021_Sep/Sep_21th_58.cpp)

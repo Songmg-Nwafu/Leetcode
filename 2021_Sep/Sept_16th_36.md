@@ -23,3 +23,4 @@
 
 ## 解答
 只需要判断在每一行、每一列、每个小九宫格中是否有重复数字出现即可。
+[code](https://github.com/Songmg-Nwafu/Leetcode/blob/main/2021_Sep/Sep_16th_36.cpp)
