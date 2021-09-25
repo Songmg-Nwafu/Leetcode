@@ -30,7 +30,7 @@ public:
 ```
 
 在题目给定的 32 位有符号整数的范围内，最大的 3 的幂为 3^{19} = 1162261467。我们只需要判断 n 是否是 3^{19}的约数即可。
-
+[code](https://github.com/Songmg-Nwafu/Leetcode/blob/main/2021_Sep/Sep_23th_326.cpp)
 ```cpp
 class Solution {
 public:
