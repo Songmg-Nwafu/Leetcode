@@ -143,6 +143,33 @@ LeetCode/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/build
 .PHONY : LeetCode/fast
 
+2021_Oct/Oct_8th_187.o: 2021_Oct/Oct_8th_187.cpp.o
+
+.PHONY : 2021_Oct/Oct_8th_187.o
+
+# target to build an object file
+2021_Oct/Oct_8th_187.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/2021_Oct/Oct_8th_187.cpp.o
+.PHONY : 2021_Oct/Oct_8th_187.cpp.o
+
+2021_Oct/Oct_8th_187.i: 2021_Oct/Oct_8th_187.cpp.i
+
+.PHONY : 2021_Oct/Oct_8th_187.i
+
+# target to preprocess a source file
+2021_Oct/Oct_8th_187.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/2021_Oct/Oct_8th_187.cpp.i
+.PHONY : 2021_Oct/Oct_8th_187.cpp.i
+
+2021_Oct/Oct_8th_187.s: 2021_Oct/Oct_8th_187.cpp.s
+
+.PHONY : 2021_Oct/Oct_8th_187.s
+
+# target to generate assembly for a file
+2021_Oct/Oct_8th_187.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/2021_Oct/Oct_8th_187.cpp.s
+.PHONY : 2021_Oct/Oct_8th_187.cpp.s
+
 2021_Sep/Sep_14th_524.o: 2021_Sep/Sep_14th_524.cpp.o
 
 .PHONY : 2021_Sep/Sep_14th_524.o
@@ -395,6 +422,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... LeetCode"
+	@echo "... 2021_Oct/Oct_8th_187.o"
+	@echo "... 2021_Oct/Oct_8th_187.i"
+	@echo "... 2021_Oct/Oct_8th_187.s"
 	@echo "... 2021_Sep/Sep_14th_524.o"
 	@echo "... 2021_Sep/Sep_14th_524.i"
 	@echo "... 2021_Sep/Sep_14th_524.s"

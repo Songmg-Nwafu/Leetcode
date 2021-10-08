@@ -3,6 +3,7 @@ LeetCode每日刷题 C++
 
 ## 哈希表
 [447.回旋镖的数量](https://github.com/Songmg-Nwafu/Leetcode/blob/main/2021_Sep/Sept_13rd_447.md)
+[187.重复的DNA序列](https://github.com/Songmg-Nwafu/Leetcode/blob/main/2021_Oct/Octo_8th_187.md)
 
 ## 双指针
 [524.通过删除字母匹配到字典里最长单词](https://github.com/Songmg-Nwafu/Leetcode/blob/main/2021_Sep/Sept_14th_524.md)
