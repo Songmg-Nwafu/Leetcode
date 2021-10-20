@@ -13,7 +13,7 @@ LeetCode每日刷题 C++
 
 ## 数组
 [36.有效的数独](https://github.com/Songmg-Nwafu/Leetcode/blob/main/2021_Sep/Sept_16th_36.md)
-
+[453.最小操作次数使数组元素相等](https://github.com/Songmg-Nwafu/Leetcode/blob/main/2021_Oct/Oct_20th_453.md)
 ## 链表
 [725. 分隔链表](https://github.com/Songmg-Nwafu/Leetcode/blob/main/2021_Sep/Sept_22th_725.md)
 
